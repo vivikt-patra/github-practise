@@ -23,4 +23,6 @@ I cloned a repository, created a branch, and practiced team-style contribution.
 
 ## Conflict Practice
 
-Conflict line: changed by teammate/main
+Conflict line: changed by my branch
+
+
