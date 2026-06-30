@@ -12,3 +12,7 @@ Learning github collaboration basics
 ## Branch Practice
 
 I created a branch to safely make changes without disturbing main.
+
+## 2nd branch self practise
+
+I created a new branch to push->merge to main->pull.
