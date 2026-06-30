@@ -16,3 +16,7 @@ I created a branch to safely make changes without disturbing main.
 ## 2nd branch self practise
 
 I created a new branch to push->merge to main->pull.
+
+## Clone Workflow Practice
+
+I cloned a repository, created a branch, and practiced team-style contribution.
